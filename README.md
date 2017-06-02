@@ -1,3 +1,9 @@
+(Cloned): Updated FFmpeg version and Linux build
+
+FFmpeg was updated to compile from the git master and the alphine set to latest. Most of the config is still the same.
+
+This is just the form from: https://github.com/opencoconut/ffmpeg, original README below the line.
+
 # Minimal FFmpeg Docker image built on the latest Alpine Linux
 
 The end Docker image is roughly 109MB insize.
